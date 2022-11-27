@@ -8,7 +8,7 @@ import { Image } from "react-bootstrap";
 const DoctorCards = () => {
   return (
     <>
-      <Card className="doctor-card" style={{ margin: " 30px 22px 15px 22px" }}>
+      <Card className="doctor-card" style={{ margin: " 20px 22px 15px 22px" }}>
         <Card.Header className="doctor-card-header ">
           <ButtonComp
             name="Clinic"

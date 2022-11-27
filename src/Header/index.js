@@ -20,7 +20,7 @@ const HeaderForMobile = () => {
         </Navbar.Brand>
         <span
           style={{
-            margin: "10px 0px 0px 30px",
+            margin: "auto",
             fontSize: 15,
             fontWeight: 700,
           }}>

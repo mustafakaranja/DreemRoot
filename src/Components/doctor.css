@@ -34,3 +34,8 @@
   box-sizing: border-box;
   border: 3px solid rgba(255, 132, 18, 0.4);
 }
+
+.doctor-card {
+  --bs-card-border-color: unset !important;
+  background-color: #f9f9f9;
+}

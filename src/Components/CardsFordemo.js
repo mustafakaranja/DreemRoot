@@ -26,7 +26,6 @@ const CardsForDemo = () => {
               alignItems: "center",
               margin: "auto",
               fontSize: 13,
-              width: 87,
             }}>
             Book Now
           </Button>
