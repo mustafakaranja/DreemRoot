@@ -1,0 +1,25 @@
+.First-card-name {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.first-card {
+  background-image: linear-gradient(96.25deg, #0037c5 8.58%, #08005f 102.54%);
+  border-radius: 9px !important;
+}
+
+.first-btn {
+  background: linear-gradient(
+    94.33deg,
+    #ff8412 22.44%,
+    #ff8412 22.45%,
+    #b1008a 124.46%
+  );
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 50px;
+  box-sizing: border-box;
+  border: 1px solid #ffffff;
+  color: #fff;
+  font-weight: 500;
+}

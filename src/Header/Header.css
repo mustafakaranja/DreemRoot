@@ -1,0 +1,8 @@
+.navbar {
+  height: 100px;
+  text-align: center;
+}
+
+.navbar-brand::before {
+  margin-left: 20px;
+}

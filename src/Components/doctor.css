@@ -1,0 +1,36 @@
+.text-muted {
+  background-color: transparent !important;
+  padding: 10px 0px 10px 0px !important;
+}
+.doctor-card-header {
+  padding: 10px 0px 10px 0px !important;
+  background-color: transparent !important;
+  border-radius: unset !important;
+}
+
+.doctor-card-body {
+  display: flex;
+
+  align-items: center;
+}
+.imgFordemo {
+  box-sizing: border-box;
+  border: 3px solid rgba(255, 132, 18, 0.4);
+  border-radius: 50px;
+}
+
+.back-btn {
+  width: 321px;
+  margin-bottom: 20px;
+  background: linear-gradient(94.33deg, #f1f1f1 22.44%, #f1f1f1 124.46%);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 50px;
+  border: transparent;
+  color: black;
+  font-weight: 500;
+}
+
+.img {
+  box-sizing: border-box;
+  border: 3px solid rgba(255, 132, 18, 0.4);
+}
