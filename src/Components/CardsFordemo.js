@@ -6,7 +6,7 @@ const CardsForDemo = () => {
   return (
     <Card
       className="first-card"
-      style={{ marginLeft: 22, marginRight: 22, width: 314, height: 75 }}>
+      style={{ marginLeft: 22, marginRight: 22, height: 75 }}>
       <Card.Body className="First-card-name">
         <div
           style={{

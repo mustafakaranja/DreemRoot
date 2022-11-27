@@ -17,8 +17,15 @@ const HeaderForMobile = () => {
             height="30"
             className="d-inline-block align-top"
           />{" "}
-          UPCOMING APPOINMENTS
         </Navbar.Brand>
+        <span
+          style={{
+            margin: "10px 0px 0px 30px",
+            fontSize: 15,
+            fontWeight: 700,
+          }}>
+          UPCOMING APPOINMENTS
+        </span>
       </Container>
     </Navbar>
   );
